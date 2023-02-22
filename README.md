@@ -30,7 +30,7 @@ This project illustrates the landing page of a fancy restaurant, with a powerful
 Clone this repo
 
 ```
-git clone https://github.com/vaasanthk/GPT3_landingpage.git
+git clone https://github.com/vaasanthk/gericht_restaurant.git
 cd GPT3_landingpage
 ```
 
@@ -42,7 +42,6 @@ You should see the React logo and a link to "Learn React" on http://localhost:30
 
 Deployed the site on vercel below is the link:
 
-<a href="https://gpt-3-landingpage.vercel.app/" target="_blank">Gericht</a>
+<!-- <a href="https://gpt-3-landingpage.vercel.app/" target="_blank">Gericht</a> -->
 
 # Thank you!
-# gericht_restaurant
