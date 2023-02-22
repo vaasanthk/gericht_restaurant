@@ -42,6 +42,6 @@ You should see the React logo and a link to "Learn React" on http://localhost:30
 
 Deployed the site on vercel below is the link:
 
-<!-- <a href="https://gpt-3-landingpage.vercel.app/" target="_blank">Gericht</a> -->
+<a href="https://gericht-restaurant-eta.vercel.app/" target="_blank">Gericht</a>
 
 # Thank you!
