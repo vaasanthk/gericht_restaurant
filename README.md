@@ -44,4 +44,9 @@ Deployed the site on vercel below is the link:
 
 <a href="https://gericht-restaurant-eta.vercel.app/" target="_blank">Gericht</a>
 
+Check out figma design:
+
+<a href="https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A1&t=4gb7dHyYFIxmDtHy-0" target="_blank">Figma</a>
+
+
 # Thank you!
